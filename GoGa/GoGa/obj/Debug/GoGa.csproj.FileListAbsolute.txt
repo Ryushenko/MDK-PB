@@ -1,0 +1,30 @@
+C:\Users\Student\source\repos\GoGa\GoGa\bin\Debug\GoGa.exe.config
+C:\Users\Student\source\repos\GoGa\GoGa\bin\Debug\GoGa.exe
+C:\Users\Student\source\repos\GoGa\GoGa\bin\Debug\GoGa.pdb
+C:\Users\Student\source\repos\GoGa\GoGa\obj\Debug\GoGa.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\GoGa\GoGa\obj\Debug\GoGa.Form1.resources
+C:\Users\Student\source\repos\GoGa\GoGa\obj\Debug\GoGa.Properties.Resources.resources
+C:\Users\Student\source\repos\GoGa\GoGa\obj\Debug\GoGa.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\GoGa\GoGa\obj\Debug\GoGa.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\GoGa\GoGa\obj\Debug\GoGa.exe
+C:\Users\Student\source\repos\GoGa\GoGa\obj\Debug\GoGa.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa v2\GoGa\bin\Debug\GoGa.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa v2\GoGa\bin\Debug\GoGa.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa v2\GoGa\bin\Debug\GoGa.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa v2\GoGa\obj\Debug\GoGa.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa v2\GoGa\obj\Debug\GoGa.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa v2\GoGa\obj\Debug\GoGa.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa v2\GoGa\obj\Debug\GoGa.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa v2\GoGa\obj\Debug\GoGa.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa v2\GoGa\obj\Debug\GoGa.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa v2\GoGa\obj\Debug\GoGa.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa\GoGa\bin\Debug\GoGa.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa\GoGa\bin\Debug\GoGa.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa\GoGa\bin\Debug\GoGa.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa\GoGa\obj\Debug\GoGa.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa\GoGa\obj\Debug\GoGa.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa\GoGa\obj\Debug\GoGa.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa\GoGa\obj\Debug\GoGa.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa\GoGa\obj\Debug\GoGa.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa\GoGa\obj\Debug\GoGa.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\морозоу дубоувцоу\GoGa\GoGa\obj\Debug\GoGa.pdb
